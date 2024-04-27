@@ -1,0 +1,11 @@
+set firewall name FROM-INSIDE-TO-DMZ rule 12 action accept
+set firewall name FROM-INSIDE-TO-DMZ rule 12 description "Accept service requests to Server"
+set firewall name FROM-INSIDE-TO-DMZ rule 12 destination group port-group SERVICES
+set firewall name FROM-INSIDE-TO-DMZ rule 12 destination address 192.1.1.100
+set firewall name FROM-INSIDE-TO-DMZ rule 12 protocol tcp
+
+set firewall name FROM-OUTSIDE-TO-DMZ rule 12 action accept
+set firewall name FROM-OUTSIDE-TO-DMZ rule 12 description "Accept service requests to Server"
+set firewall name FROM-OUTSIDE-TO-DMZ rule 12 destination group port-group SERVICES
+set firewall name FROM-OUTSIDE-TO-DMZ rule 12 destination address 192.1.1.100
+set firewall name FROM-OUTSIDE-TO-DMZ rule 12 protocol tcp

@@ -1,0 +1,2 @@
+conntrackd -k
+conntrackd -d
