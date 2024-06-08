@@ -1,0 +1,6 @@
+pandas
+numpy
+dnspython
+pygeoip
+matplotlib
+fastparquet
