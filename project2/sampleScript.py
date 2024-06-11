@@ -36,6 +36,7 @@ data=pd.read_parquet(datafile)
 
 #Just the UDP flows
 udpF=data.loc[data['proto']=='udp']
+print(f"UDP flows: {udpF.shape[0]}")
 
 #Number of UDP flows for each source IP
 nudpF=data.loc[data['proto']=='udp'].groupby(['src_ip'])['up_bytes'].count()
@@ -52,7 +53,9 @@ upS=data.loc[((data['port']==443))].groupby(['src_ip'])['up_bytes'].sum().sort_v
 
 #Histogram of the total uploaded bytes to destination port 443, by source IP
 upS=data.loc[((data['port']==443))].groupby(['src_ip'])['up_bytes'].sum().hist()
-plt.show()
+#plt.show()
+plt.savefig('upload_histogram.png')  # Save the histogram instead of showing it
+plt.close()
 
 #Upload/Download bytes ratio (traffic for port 443) for each source IP
 a1=data.loc[((data['port']==443))].groupby(['src_ip'])['up_bytes'].sum()

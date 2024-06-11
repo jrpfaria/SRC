@@ -1,0 +1,459 @@
+AS12389 Rostelecom
+AS4134 Chinanet
+AS4837 CHINA UNICOM China169 Backbone
+AS49505 OOO Network of data-centers Selectel
+AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+AS12714 PJSC MegaFon
+AS58519 Cloud Computing Corporation
+AS206766 LLC Internet Tehnologii
+AS212667 RECONN LLC
+AS13238 YANDEX LLC
+AS714 APPLE-ENGINEERING
+AS43574 Rostelecom
+AS51659 LLC Baxet
+AS35751 Internet Tekhnologii LLC
+AS41750 Mega-Line Ltd.
+AS49179 Tendence LLC
+AS197015 SPD Antipov O.V.
+AS25513 PJSC Moscow city telephone network
+AS198541 INTERCOMTEL Limited Company
+AS61031 Escomtel Backbone Networks Ltd.
+AS13178 LLC Real-net
+AS57456 Intek-Mytischi LLC
+AS204674 CJSC Bank of Asia
+AS8492 OBIT Ltd.
+AS48347 JSC Mediasoft ekspert
+AS199833 UgSel'hoz LLC
+AS44533 Alexey Geiner
+AS57174 Nets and Services JCS
+AS43552 MedTech Ltd.
+AS57766 ENERGOINFORM Ltd
+AS48642 Joint stock company For
+AS206764 JSC Mediasoft ekspert
+AS50029 Telecom Ltd.
+AS48096 Enterprise Cloud Ltd.
+AS48282 Hosting technology LTD
+AS49392 LLC Baxet
+AS49342 OOO MediaSeti
+AS25184 Afranet
+AS29182 JSC IOT
+AS133448 Korea
+AS4739 Internode Pty Ltd
+AS49255 TeleGlobal Ltd.
+AS209927 LLC Internet Service
+AS57320 CityLink Ltd
+AS201730 AUTOCONT a.s.
+AS31214 TIS Dialog LLC
+AS4808 China Unicom Beijing Province Network
+AS13079 Zond Holding JSC
+AS57252 Rg Fairplay S.r.l
+AS42574 Novaya Sibir Plus Ltd.
+AS59541 Federal State-owned Enterprise Russian Television and Radio Broadcasting Network
+AS58067 Chitatehenergy JSC
+AS58219 Ekus LLC
+AS34665 Petersburg Internet Network ltd.
+AS1239 SPRINTLINK
+AS57281 RTT Ltd.
+AS42753 Iris-tel LLC
+AS41409 Interbank Processing centre CJSC
+AS62108 TechnoKad Ltd.
+AS24739 JSC Severen-Telecom
+AS29226 JSC Mastertel
+AS4847 China Networks Inter-Exchange
+AS41554 Legioncom Ltd
+AS56814 M2 Connect LLC
+AS136800 MOACK.Co.LTD
+AS34896 Vostoktelecom Telephone Company Limited Liability Company
+AS5468 Yeltsin UrFU, Ural Federal University
+AS33871 Norilsk-Telecom JSC
+AS59083 Shanghai Kuanhui Tech. Co.,ltd
+AS56046 China Mobile communications corporation
+AS3257 GTT Communications Inc.
+AS51655 Ilim Telecom Ltd.
+AS29124 Iskratelecom CJSC
+AS57371 Mass-Net LLC
+AS47694 Level-MSK Ltd.
+AS49063 Dataline Ltd
+AS48940 Link Ltd.
+AS30936 RENET COM Ltd.
+AS210756 EdgeCenter LLC
+AS47626 Timer, LLC
+AS59504 LLC Vpsville
+AS48470 Joint Stock Company MTU Kristall
+AS8828 Rostelecom
+AS198693 Commercial Bank Uralfinance LLC
+AS8510 Tomsk State University
+AS131542 AS131542
+AS13105 LUKOIL Technology Services GmbH
+AS9294 GNET INC.
+AS12739 CJSC Netline
+AS4621 Chulalongkorn University
+AS140091 SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED
+AS48366 Inforoom Ltd.
+AS12494 OOO Post ltd
+AS12332 Rostelecom
+AS204925 Center for Information and Communication Technologies of the Republic of Bashkortostan, Sta
+AS59989 T.H. Global Vision SARL
+AS52194 IT Ltd
+AS29470 JSC RetnNet
+AS42742 InterkamService LLC
+AS8615 Central Telegraph Public Joint-stock Company
+AS262254 DDOS-GUARD CORP.
+AS51783 The Center of Dedicated Servers LLC
+AS7040 NETMINDERS
+AS135097 LUOGELANG FRANCE LIMITED
+AS8411 Federal State Autonomous Educational Institution Of Higher Education Omsk State University na
+AS136255 Telecom International Myanmar Co., Ltd
+AS142423 Myanmar Bee Live Communication Co.,Ltd
+AS8732 JSC Comcor
+AS28761 CrimeaCom South LLC
+AS29076 Citytelecom LLC
+AS8846 Federal State Unitary Enterprise Television Technical Center Ostankino
+AS51570 JSC ER-Telecom Holding
+AS38337 NIU Telecommunications Inc
+AS49891 Joint-stock company Gallery Chizhov
+AS35140 Cjsc Race Telecom
+AS47925 TNS-RU Ltd
+AS12686 Open Joint Stock Commercial Bank Rosbank (OJSC)
+AS12695 LLC Digital Network
+AS50197 Political party Edinaya Russia
+AS50427 Orion Telecom LLC
+AS39121 Eniseyneftegas Territorial Industrial Technical Management of Communication LLC
+AS31261 PJSC MegaFon
+AS50916 CityLink Ltd
+AS47541 VKontakte Ltd
+AS3261 LLC fticom
+AS3216 PVimpelCom
+AS132116 Ani Network Pvt Ltd
+AS15741 Expiline Ltd.
+AS39927 E-Light-Telecom Ltd.
+AS15673 Teleseti Plus Ltd.
+AS206092 Ipxo Limited
+AS45102 Alibaba US Technology Co., Ltd.
+AS202486 TSK LLC
+AS21127 Joint Stock Company TransTeleCom
+AS48858 JSC ER-Telecom Holding
+AS16301 Rostelecom
+AS200323 V.I.Ilichev Pacific Oceanological Institute, Far Eastern Branch, Russian Academy of Science
+AS200420 mega-net LLC
+AS200430 WEBO LLC
+AS200976 Lifestream Ltd
+AS202423 Tyurin Viktor Mihaylovich
+AS60548 Inter-Telekom LLC
+AS57562 Puls-KT LLC.
+AS211712 LLC 7utra
+AS60144 3W Infra B.V.
+AS48847 Waves S.a.l
+AS208349 O2 Cloud LLC
+AS50009 Quartz Telecom LLC
+AS43228 SimpleTelecom LLC
+AS58563 CHINANET Hubei province network
+AS59494 Enigma Telecom Ltd.
+AS58593 Shanghai Blue Cloud Technology Co.,Ltd
+AS42610 Rostelecom
+AS199281 LLC Eniseytelephone
+AS15672 OOO Telecom TZ
+AS62330 ASH Ltd
+AS41909 PINVDS OU
+AS17621 China Unicom Shanghai network
+AS56361 Orgtechservice Ltd
+AS196798 Mifril+ LLC
+AS41691 Rostelecom
+AS24658 Information & Computing Center, Ltd.
+AS48320 KETIS Ltd.
+AS56340 Grand Ltd
+AS17781 XINHUA NEWS AGENCY
+AS62150 BARS Group JSC
+AS45046 OOO Isatel
+AS197695 Domain names registrar REG.RU, Ltd
+AS16323 Informatsionniye Systemy i Technologii CJSC.
+AS47562 Fast Link Ltd
+AS4611 CNNIC member
+AS43201 Telematika LLC
+AS38152 PT Antar Mitra Prakarsa
+AS49377 JSCYamaltelekom
+AS49606 MCD Europe Limited
+AS42478 Yug-Link Ltd.
+AS39087 P.a.k.t LLC
+AS39415 PJSC Moscow city telephone network
+AS47349 Teleradiocompany Bytradiotehnika Ltd.
+AS49253 Bringo Ltd
+AS44477 Stark Industries Solutions Ltd
+AS39442 JSC RDE Unico
+AS47165 Omskie kabelnye seti Ltd.
+AS42244 eServer s.r.o.
+AS39843 ZAO Ratecom
+AS49124 CentroSet Ltd.
+AS49779 Joint-Stock Company Investpribor
+AS48209 Ooo Lancronix
+AS44507 OJSC Kostroma Municipal Telephone Network
+AS212220 IP Eremenko Alina Olegovna
+AS35658 OOO SCIENTIFIC RESEARCH CENTER Bulat
+AS60124 LLC amigos
+AS212128 LLC horizon
+AS57099 Boundless Networks Limited
+AS211529 Odintsovskaya teploset, JSC
+AS210768 Megabyte IKE
+AS57494 Adman LLC
+AS50159 LLC Radius
+AS57843 Gk Interlogica LLC
+AS57973 LLC VK
+AS205544 Leaseweb Uk Limited
+AS205460 LLC Svyazinvest
+AS204923 WISPI SRL
+AS203549 individual entrepreneur Eduard Uruzov
+AS201825 Rusphone OOO
+AS56893 108 Telecom LLC
+AS201776 Miranda-Media Ltd
+AS60922 KKM IT Limited
+AS61009 Tyumbit-ASU OOO
+AS199472 Foundation for Assistance for Internet Technologies and Infrastructure Development
+AS199420 OOO Fly Engeneering Group
+AS198610 Beget LLC
+AS16371 acens Technologies, S.L.
+AS63773 dual&Co. Inc.
+AS136766 ROBLOX SHENZHEN DIGITAL SCIENCE AND TECHNOLOGY CO., LTD
+AS8439 Rostelecom
+AS134100 Express Data Co.,Ltd
+AS9131 ISP Uspeh
+AS56971 Cgi Global Limited
+AS57780 XENIA Systems GmbH IT-Consulting und Systemloesungen
+AS50612 SkyNet LLC
+AS56451 Telekey-S Ltd
+AS50182 Proxima Ltd
+AS51397 OJSC Petrol Stock Company Bashneft
+AS31257 Orion Telecom LLC
+AS3253 PVimpelCom
+AS31138 Ltd IPTelecom
+AS35048 Biterika Group LLC
+AS50775 OOO 24 chasa TV
+AS33991 Igra-Service LLC
+AS51730 OOO IT-Tcentr
+AS35401 AO Tele-Service Tula
+AS34757 Sibirskie Seti Ltd.
+AS52052 Broadcasting Company KTV Plus LLC
+AS28917 Fiord Networks, UAB
+AS25308 CityLanCom LTD
+AS25159 PJSC MegaFon
+AS5563 JSC ER-Telecom Holding
+AS21480 PVimpelCom
+AS213220 Delta Ltd
+AS50966 LLC Intercom Technology
+AS8193 Uzbektelekom Joint Stock Company
+AS6863 Rostelecom
+AS6801 Federal State Institution Russian Scientific Center Kurchatovsky institute
+AS49241 The joint-stock Bank 'ROSEVROBANK'
+AS8641 LLC Nauka-Svyaz
+AS50340 OOO Network of data-centers Selectel
+AS9123 TimeWeb Ltd.
+AS9389 BEIJING SHENZHOU GREATWALL COMMUNICATION
+AS9805 SIEMENS LTD. CHINA
+AS9812 Oriental Cable Network Co., Ltd.
+AS47733 Digital Networks Ltd
+AS9051 IncoNet Data Management sal
+AS60747 MODUS LLC
+AS63582 Chinese Academy of Telecommunication Research
+AS49813 Innova Co S.A.R.L.
+AS61400 Start LLC
+AS50738 Huize Telecom Limited
+AS51032 LLC Powernet
+AS48479 KUBAN-TELECOM Ltd.
+AS49531 NetCom-R LLC
+AS48515 Praktika Ltd.
+AS48524 INTERRA telecommunications group, Ltd.
+AS59033 Esun TechnologyShanghai Co.,Ltd
+AS58851 Priority of FashionBeijingInformation Technology Co.,Ltd
+AS51912 Department of Digital Development and Communications of the Jewish autonomous region
+AS57133 Control Panel Sarl
+AS56006 Shanghai Pudong Development Bank Co.,Ltd.
+AS41110 DSLmobil GmbH
+AS9988 Myanma Posts and Telecommunications
+AS34458 Smart Networks S.a.r.l
+AS3326 Private Joint Stock Company datagroup
+AS28878 Signet B.V.
+AS29071 Sputnikovaya svyaz LLC
+AS29301 Karavel SAS
+AS31034 Aruba S.p.A.
+AS31470 OJSC Chelyabinsk Electric-Metallurgical Kombinat
+AS196764 RFI Minprirody Rossii FBGU
+AS18021 Unisys NZ, IT Outsourcer
+AS17428 21Vianet.Co.,Ltd
+AS136907 HUAWEI CLOUDS
+AS34300 Internet-Cosmos LLC
+AS16321 Aiconet Ltd.
+AS206728 Media Land LLC
+AS146774 Hardcore Communication Co.
+AS14576 HOSTING-SOLUTIONS
+AS34784 RuSat Ltd.
+AS35564 Link LLC
+AS197453 Biz Telecom LLC
+AS199078 Telecom-VIST Ltd.
+AS199669 Okay-Telecom Ltd.
+AS24429 Zhejiang Taobao Network Co.,Ltd
+AS206448 LLC SouthTransTelecom
+AS20632 PJSC MegaFon
+AS208061 Limited Company Telecontact
+AS208677 Cloud technology Limited (Ltd.)
+AS208909 GurbTec Telecom SL
+AS209067 Aviva-Telecom Ltd.
+AS209372 SIA Singularity Telecom
+AS210870 Minochkin Aleksey
+AS204144 Comfort XXI Century Ltd.
+AS203020 HostRoyale Technologies Pvt Ltd
+AS212713 LLC Telecom Group
+AS21275 JSC Management Company Metallinvest
+AS202446 SMARTS JSC
+AS21365 MTS PJSC
+AS199906 Non-State Educational Institution Moscow Center for Continuous Mathematical Education
+AS38496 PT Cyber Network Indonesia
+AS207676 Best Line Ltd.
+AS41275 Lovitel LLC
+AS41957 Directive LLC
+AS12663 Vodafone Italia S.p.A.
+AS47530 Novokuznetsk Telecom Ltd
+AS12668 LLC KomTehCentr
+AS47334 I-media Ltd
+AS12997 OJSC Kyrgyztelecom
+AS44755 New Link Telecom LTD
+AS44640 Cactus Ltd.
+AS13056 Rostelecom
+AS131519 Hisense
+AS43318 MTS PJSC
+AS42514 Signal Service LLC
+AS133296 Web Werks India Pvt. Ltd.
+AS42511 Connect LLC
+AS134840 Myanmar Country Co., Ltd.
+AS132742 Guochao Group limited
+AS41748 OOO VolgaSvyazService
+AS41789 LLC Teledyne Systems Limited
+AS41446 Municipal autonomous educational establishment of supplementary education of children Center
+AS15774 Limited Liability Company TTK-Svyaz
+AS59574 Limited Liability Company SKS Telecom
+AS141174 INTELLIGENT CONNECTION LIMITED
+AS202984 Chernyshov Aleksandr Aleksandrovich
+AS13044 Aoun.net s.a.r.l
+AS7497 Computer Network Information Center
+AS7609 Morgan Stanley Management Service Shanghai Limited
+AS9381 HKBN Enterprise Solutions HK Limited
+AS12958 T2 Mobile LLC
+AS59656 GBU Yaroslavskoy Oblasti Electrony Region
+AS59595 Teneta Telekom Ltd.
+AS9441 Next Online Limited.
+AS14537 CL-1379-14537
+AS204305 LLC ANsystems
+AS20485 Joint Stock Company TransTeleCom
+AS9801 A Building Haibo Masion, No.136 Xisihuan North Road
+AS205161 Sberbank of Russia PJSC
+AS140061 Qinghai Telecom
+AS206287 LysaFree, z.s.
+AS139719 Yar Chang Company Limited
+AS9808 China Mobile Communications Group Co., Ltd.
+AS58879 Shanghai Anchang Network Security Technology Co.,Ltd.
+AS58852 Guizhou provincial radio and television information Network Inc
+AS138538 VPSOR-GLOBAL
+AS201193 Internet Projects JSC
+AS200123 Kola Geological Information Laboratory Centre OJSC
+AS60893 Art of Automation B.V.
+AS6704 Citylan LLC
+AS16230 Company Skynet Ltd
+AS135718 DISHAWAVES INFONET PVT. LTD
+AS135285 Ethos Company Limited
+AS136188 NINGBO, ZHEJIANG Province, P.R.China.
+AS134963 Alibaba.com Singapore E-Commerce Private Limited
+AS6854 PJSC MegaFon
+AS134773 CHINANET Guangdong province Guangzhou MAN network
+AS134732 Dot Internet
+AS196986 Closed Joint Stock Company Siberian Agency of Air Communications
+AS133865 Beijing IQIYI Science & Technology Co., Ltd.
+AS197140 JSC ER-Telecom Holding
+AS62446 Nika-telecom LLC
+AS197350 AL Zaytona Company For Communication Ltd.
+AS62241 Forest Net LTD
+AS146842 ChinaDataCom Corporation Limited
+AS138421 China Unicom
+AS197865 Window's Manufactory Ltd
+AS197952 Uk Uniservice LLC
+AS132686 Amara Communications
+AS61312 cable television EKTA - BROVARY Ltd.
+AS132203 Tencent Building, Kejizhongyi Avenue
+AS8402 PVimpelCom
+AS8369 Intersvyaz-2 JSC
+AS47566 Kolchug-INFO Ltd.
+AS210512 Internet Technologies LLC
+AS20688 Chudo Telecom Ltd.
+AS41118 Private institution SCC of Rosatom
+AS42065 ZAO ElectronTelecom
+AS49156 Izhline Ltd.
+AS41928 Olympia Ltd
+AS41833 Moscanet SAL
+AS49293 Digital Tehnology Ltd
+AS41517 MUP Strela Khabarovsk
+AS49444 Private Limited Company Lutacom
+AS109 CISCOSYSTEMS
+AS34602 Megasvyaz LLC
+AS40993 MTS PJSC
+AS40966 ZAO Web Hosting
+AS35830 BTT Group Finance Ltd
+AS35728 MTS PJSC
+AS35624 Silverstar Invest Limited
+AS50158 Connect LLC
+AS34629 Resurs-Svyaz Ltd
+AS49020 FiberSkynet
+AS48986 DiState Ltd.
+AS42072 Positive Systems LLC
+AS42148 Beirel Telecom LLC
+AS47564 Proizvodstvennoe Obyedineniye Tonus Ltd.
+AS47954 Alpha Net Telecom Ltd
+AS47440 Business System Telehouse, Ooo
+AS48176 OOO SET
+AS45090 Shenzhen Tencent Computer Systems Company Limited
+AS44927 LLC Telecom MPK
+AS48322 MTS PJSC
+AS44772 LLC Inter-svyaz-group
+AS48369 M-Telecom Ltd.
+AS48371 Westlan LTD
+AS44546 ALFA TELECOM s.r.o.
+AS43235 Sprint Inet LLC
+AS43152 Jsc Sc Ntel
+AS42916 IT Ltd.
+AS48757 TrustInfo LLC
+AS50228 anextel LLC
+AS50406 MTS PJSC
+AS58347 AiK LLC
+AS210318 Capital Outsourcing Sal
+AS21487 Rostelecom
+AS213133 Corporate Networking Academy ANO
+AS56630 Melbikomas UAB
+AS212913 FOP Hornostay Mykhaylo Ivanovych
+AS21191 Joint Stock Company TransTeleCom
+AS211028 Spetsavtomatikaservice LLP
+AS47747 Limited Liability Company TeleTower
+AS209805 Sbcloud LLC
+AS50473 Altagen JSC
+AS20895 Yuzhniy TELECOM ltd.
+AS208935 Aiti Spektr ltd
+AS208890 Republican Digital Communications Office LAN
+AS57885 Oikumena JSC
+AS207967 Anton Mamaev
+AS58217 BelKomStroy Ltd.
+AS207873 JSC Kuchenland Home Rus
+AS21859 ZEN-ECN
+AS56038 RackCorp
+AS24971 Master Internet s.r.o.
+AS5548 Federal State Budget Educational Establishment of Higher Education Russian University Of Tran
+AS50477 Svyaz-Energo Ltd.
+AS50544 JSC ER-Telecom Holding
+AS34456 Rial Com JSC
+AS33902 Invest Mobile LLC
+AS31724 Svyazist LLC
+AS31500 Global Network Management Inc
+AS31208 PJSC MegaFon
+AS29426 AO Connecto
+AS29388 Best Telecom ISP
+AS29363 OOO 'RUS'
+AS51892 Voentelecom Jsc
+AS5386 Federal State Budgetary Institution of Science Space Research Institute of the Russian Academ
+AS26548 PUREVOLTAGE-INC
+AS2585 Optic Telecom LLC
+AS25086 MTS PJSC
+AS10099 China Unicom Global
