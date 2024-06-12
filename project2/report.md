@@ -78,7 +78,7 @@ Tanto num dia normal como no dia do testX, o normal é cada IP ter um ratio tota
 - 192.168.108.46   3.903700
 
 ## Upload total
-Os seguintes IPs apresentam um download total muito maior do que os outros:
+Os seguintes IPs apresentam um upload total muito maior do que os outros:
 - 192.168.108.110     221472872 (221MB)
 - 192.168.108.140    6988278568 (7GB)
 - 192.168.108.206    2992019743 (3GB)
