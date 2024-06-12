@@ -35,14 +35,11 @@ Foram encontrados 36 países diferentes de destino. Os destinos mais comuns em t
 
 //inserir gráficos aqui
 
-###########################################
+# Comportamento abnormal
 
 ## DNS Servers
-Dois IPs que, para além de serem os destinos mais comuns, são acessados exclusivamente na porta 53 com o protocolo UDP, e são os únicos acessados pela porta 53
-- 192.168.108.224
-- 192.168.108.231
 
-Passaram a haver o dobro dos pedidos a estes servers no test8, apesar do upload e download se manterem iguais.
+Passaram a haver o dobro dos pedidos para os servers de DNS no test8, apesar do upload e download se manterem iguais.
 No data8, o IP que fazia mais pedidos para estes servers fazia 0.01499634573% dos pedidos.
 No test8, o IP 192.168.108.97 faz 36% dos pedidos, o 192.168.108.169 faz 12% dos pedidos, e o 192.168.108.55 faz pouco menos que 1%.
 
@@ -129,7 +126,8 @@ E download:
 - 192.168.108.36     108196407 (108MB)
 - 192.168.108.95      81414226 (81MB)
 
-Além disso, se removermos desta lista os países Malásia, "Europa", Omã e Taiwan, vemos que apenas estes dois IPs geram o tráfego para todos os outros países. Podemos observar que existe apenas um IP que é origem de flows para "Europe", outro para Oman, e outro para Taiwan. No entanto, existem 7 IPs diferentes que contactam a Malásia (não considerando os dois IPs descritos acima), um país que não era destino de flows no dataset original.
+Além disso, se removermos desta lista os países Malásia, "Europa", Omã e Taiwan, vemos que apenas estes dois IPs geram o tráfego para todos os outros países. Podemos observar que existe apenas um IP que é origem de flows para "Europe", outro para Oman, e outro para Taiwan.
+No entanto, existem 7 IPs diferentes que contactam a Malásia (não considerando os dois IPs descritos acima), um país que não era destino de flows no dataset original.
 - 192.168.108.77       7294751
 - 192.168.108.29       1314011
 - 192.168.108.116      1229535

@@ -16,5 +16,10 @@ test=pd.read_parquet(testfile)
 serversfile='dataset8/servers8.parquet'
 servers=pd.read_parquet(serversfile)
 
-test['diff_timestamp']=test.groupby(['src_ip'])['timestamp'].diff()
-print(test.groupby(['src_ip'])['diff_timestamp'].mean().sort_values(ascending=False))
+test.groupby(['timestamp'])[['down_bytes', 'up_bytes']].sum().plot()
+plt.savefig('playing.png')
+plt.close()
+
+a = test.loc[(test['src_ip']=='192.168.108.97')].loc[(test['up_bytes']>=2*(10^8))]['timestamp'].diff().fillna(0).sort_index()
+for x in a.keys():
+    print(x, a[x])
