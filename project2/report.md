@@ -151,6 +151,25 @@ Existem apenas dois IPs que utilizam a rede antes das 05:00h ou depois das 20:00
 - 192.168.108.208     24
 - 192.168.108.88     395
 
+Existem dois IPs que utilizam a rede durante muito pouco tempo. Aqui estão os IPs associados à diferença entre a primeira e a última timestamp do seu histórico de flows:
+- 192.168.108.111      25179 (4 min)
+- 192.168.108.98       63450 (10 min)
+
+# Ratio para certos AS
+Twitter
+- 192.168.108.110     4.258091
+- 192.168.108.46      6.161458
+- 192.168.108.138    12.586836
+Nenhum outro IP passa de 0.12
+
+Google
+- 192.168.108.206    34.601217
+Nenhum outro IP passa de 0.12
+
+Microsoft
+- 192.168.108.140    69.000826
+Nenhum outro IP passa de 0.14
+
 # Servers.parquet
 The following IPs make a request exactly every 8 seconds:
 - 82.155.128.70
