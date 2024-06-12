@@ -150,3 +150,9 @@ Aqui os IPs estão associados com o número de flows.
 Existem apenas dois IPs que utilizam a rede antes das 05:00h ou depois das 20:00h:
 - 192.168.108.208     24
 - 192.168.108.88     395
+
+# Servers.parquet
+The following IPs make a request exactly every 8 seconds:
+- 82.155.128.70
+- 82.155.128.155
+- 82.155.128.89

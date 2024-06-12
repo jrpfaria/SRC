@@ -18,9 +18,12 @@ servers=pd.read_parquet(serversfile)
 
 fig, ax = plt.subplots()
 #a0=servers.groupby(['src_ip'])['timestamp'].diff().fillna(0).mean()
-servers['diff_timestamp']=servers.groupby(['src_ip'])['timestamp'].diff().fillna(0)
-servers.groupby(['src_ip'])['diff_timestamp'].max().sort_values(ascending=False).plot(kind='barh', figsize=(10,25))
-#a0.sort_values().plot(kind='barh', figsize=(10,25))
-plt.tight_layout()
-plt.savefig('playing.png')
-plt.close()
+servers['diff_timestamp']=servers.groupby(['src_ip'])['timestamp'].diff()
+a = servers.loc[servers['src_ip']=='82.155.128.39']['diff_timestamp']
+for x in a.keys():
+    print(x, a[x])
+# servers.groupby(['src_ip'])['diff_timestamp'].var().sort_values(ascending=False).plot(kind='barh', figsize=(10,25))
+# #a0.sort_values().plot(kind='barh', figsize=(10,25))
+# plt.tight_layout()
+# plt.savefig('playing.png')
+# plt.close()
